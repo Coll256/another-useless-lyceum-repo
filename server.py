@@ -1,5 +1,6 @@
-from flask import Flask, request, jsonify
 import logging
+
+from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
